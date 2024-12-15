@@ -1,0 +1,30 @@
+[
+  {
+    "q": "Is my journal data secure?",
+    "a": "Yes! We use enterprise-grade encryption and security measures to ensure your entries remain private and secure."
+  },
+  {
+    "q": "Does the journal support collaborative writing?",
+    "a": "Currently, our platform is designed for solo journaling, but we are working on features that will allow shared entries with trusted individuals."
+  },
+  {
+    "q": "Does this journal have an offline mode?",
+    "a": "Yes, you can write and access your journal offline. Once you're online again, your entries will sync automatically."
+  },
+  {
+    "q": "How do I back up my journal entries?",
+    "a": "Your entries are automatically backed up in real-time. You can also download a copy at any time for extra peace of mind."
+  },
+  {
+    "q": "Can I create a digital scrapbook within the journal?",
+    "a": "Yes! You can create a scrapbook with images, clippings, and notes to capture special moments or themes."
+  },
+  {
+    "q": "Are there different writing modes available?",
+    "a": "Yes, we offer a 'Focus Mode' for distraction-free writing, as well as a 'Creative Mode' with built-in prompts and inspirations."
+  },
+  {
+    "q": "Can I set goals for my writing sessions?",
+    "a": "Yes, you can set daily or weekly word count goals and track your progress to stay motivated."
+  }
+]
